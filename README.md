@@ -2,6 +2,11 @@
 
 This project provides a framework for maze navigation, including various agents, exploration strategies, and utilities for interacting with and visualizing mazes.
 
+# Contribution
+Francesco Zito
+Teo Nicusor Pirvan (https://github.com/PirvanTeo)
+Andrei Stefan (https://github.com/Picred)
+
 ## Features
 - Maze generation and manipulation
 - Agent-based navigation
