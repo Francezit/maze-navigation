@@ -4,7 +4,9 @@ This project provides a framework for maze navigation, including various agents,
 
 # Contribution
 Francesco Zito
+
 Teo Nicusor Pirvan (https://github.com/PirvanTeo)
+
 Andrei Stefan (https://github.com/Picred)
 
 ## Features
