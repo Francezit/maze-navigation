@@ -2,7 +2,7 @@
 
 This project provides a framework for maze navigation, including various agents, exploration strategies, and utilities for interacting with and visualizing mazes.
 
-# Contribution
+# Contributions
 Francesco Zito
 
 Teo Nicusor Pirvan (https://github.com/PirvanTeo)
